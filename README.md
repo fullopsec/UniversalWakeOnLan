@@ -34,7 +34,7 @@ I made a guide on [how to setup your telegram bot](https://github.com/fullopsec/
 2. Install the required dependencies: `pip install -r requirements.txt`
 3. Create a new Telegram bot and get the bot token.
 4. Set the bot token and machines names/MAC in the `config.ini` file.
-5. Create a Cron Job to run the script every 10 seconds
+5. Create a Cron Job to run the script every 10 seconds.
 
 ## How it works
 1. Send a wake up command to Telegram channel.
