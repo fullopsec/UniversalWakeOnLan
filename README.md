@@ -37,7 +37,7 @@ I made a guide on [how to setup your telegram bot and get your tokens](https://g
 Video Tutorial: https://www.youtube.com/watch?v=jX26s1SrdWM
 1. Clone the repository: `git clone https://github.com/fullopsec/UniversalWakeOnLan.git`
 2. Install the required dependencies: `pip install -r requirements.txt`
-3. [Create a Telegram bot and get the bot token.](https://github.com/fullopsec/TelegramAlerts)
+3. [Create a Telegram bot and get the bot token.](https://www.youtube.com/watch?v=-bmppdlnxEQ&feature=youtu.be)
 4. Set the bot token, timer and machines names/MAC in the python script file.
 5. Create a Cron Job to run the script every x seconds.
 
