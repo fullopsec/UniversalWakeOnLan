@@ -10,6 +10,8 @@
 
 </p>
 
+Disclaimer:
+This script was made in a hurry and could be greatly improved,  modify it as you wish!
 
 UniversalWakeOnLan is a script designed to wake up your device remotely from anywhere in the world with the help of Telegram API. It is compatible with Opnsense Firewalls.
 
