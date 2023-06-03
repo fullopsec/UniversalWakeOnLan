@@ -9,9 +9,9 @@
 </p>
 
 
-UniversalWakeOnLan is a script designed to wake up your device remotely from anywhere in the world with the help of Telegram API. It is compatible with Opnsense routers.
+UniversalWakeOnLan is a script designed to wake up your device remotely from anywhere in the world with the help of Telegram API. It is compatible with Opnsense Firewalls.
 
-I made a guide on [how to setup your telegram bot](https://github.com/fullopsec/TelegramAlerts)
+I made a guide on [how to setup your telegram bot and get your tokens](https://github.com/fullopsec/TelegramAlerts)
 
 ## Features
 - Wake up your device remotely from anywhere in the world.
@@ -32,9 +32,9 @@ I made a guide on [how to setup your telegram bot](https://github.com/fullopsec/
 ## Installation - NOT available yet
 1. Clone the repository: `git clone https://github.com/fullopsec/UniversalWakeOnLan.git`
 2. Install the required dependencies: `pip install -r requirements.txt`
-3. Create a new Telegram bot and get the bot token.
-4. Set the bot token and machines names/MAC in the `config.ini` file.
-5. Create a Cron Job to run the script every 10 seconds.
+3. [Create a Telegram bot and get the bot token.](https://github.com/fullopsec/TelegramAlerts)
+4. Set the bot token, timer and machines names/MAC in the python script file.
+5. Create a Cron Job to run the script every x seconds.
 
 ## How it works
 1. Send a wake up command to Telegram channel.
