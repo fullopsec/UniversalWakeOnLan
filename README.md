@@ -1,11 +1,13 @@
-# UniversalWakeOnLan (UWOL) - Coming soon
+# UniversalWakeOnLan (UWOL)
 
 
-### <p align="center"><strong><font size="60">Note: This project is currently under construction.</font></strong></p>
+
 
 <p align="center">
   
-  <img src="https://raw.githubusercontent.com/ugurcandede/Under-Construction/master/under%20building/Capture.PNG" alt="Alt text">
+  ![Instant Telegram alerts on SSH login!(5)](https://github.com/fullopsec/UniversalWakeOnLan/assets/114147068/dcafccc0-0e4e-45b5-baaf-44c0c9f8b8ad)
+
+
 </p>
 
 
@@ -29,7 +31,8 @@ I made a guide on [how to setup your telegram bot and get your tokens](https://g
 - The "always up" machine must have internet access.
 - Network card that support Wake-on-LAN on the machines you want to wake.
 
-## Installation - NOT available yet
+## Installation 
+Video Tutorial: https://www.youtube.com/watch?v=jX26s1SrdWM
 1. Clone the repository: `git clone https://github.com/fullopsec/UniversalWakeOnLan.git`
 2. Install the required dependencies: `pip install -r requirements.txt`
 3. [Create a Telegram bot and get the bot token.](https://github.com/fullopsec/TelegramAlerts)
