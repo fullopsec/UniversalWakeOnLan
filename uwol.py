@@ -149,7 +149,7 @@ def boot_machine(machine):
     except Exception as e:
         print(e)
         
-def main():
+def main():      #Yeah I know it's not like a real main
     response = get_messages()
     format_messages(response)
 main()
