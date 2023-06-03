@@ -29,7 +29,7 @@ I made a guide on [how to setup your telegram bot and get your tokens](https://g
 - Python 3.x
 - An "always up" machine in the same local network as the devices to wake (can be a Raspberry Pi). 
 - The "always up" machine must have internet access.
-- Network card that support Wake-on-LAN on the machines you want to wake.
+- Active Network card that support Wake-on-LAN on the machines you want to wake.
 
 ## Installation 
 Video Tutorial: https://www.youtube.com/watch?v=jX26s1SrdWM
