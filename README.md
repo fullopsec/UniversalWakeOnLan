@@ -15,7 +15,7 @@
 
 
 
-UniversalWakeOnLan is a script designed to wake up your device remotely from anywhere in the world with the help of Telegram API. It is compatible with Opnsense Firewalls.
+UniversalWakeOnLan is a script designed to wake up your computers remotely from anywhere in the world with the help of Telegram API. It is compatible with Opnsense Firewalls.
 
 I made a guide on [how to setup your telegram bot and get your tokens](https://github.com/fullopsec/TelegramAlerts)
 
