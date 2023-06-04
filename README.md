@@ -22,10 +22,6 @@ I made a guide on [how to setup your telegram bot and get your tokens](https://g
 Disclaimer:
 This script was made in a hurry and could be greatly improved,  modify it as you wish!
 
-## Youtube video featuring this project
-
-https://www.youtube.com/watch?v=jX26s1SrdWM
-
 ## Features
 - Wake up your device remotely from anywhere in the world.
 - Give names to your machines and wake them up one by one.
