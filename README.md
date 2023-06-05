@@ -37,6 +37,7 @@ This script was made in a hurry and could be greatly improved,  modify it as you
 - An "always up" machine in the same local network as the devices to wake (can be a Raspberry Pi). 
 - The "always up" machine must have internet access.
 - Active Network card that support Wake-on-LAN on the machines you want to wake.
+- If you want to run it from an Opnsense firewall, install the os-wol plugin in Opnsense
 
 ## Installation 
 Video Tutorial: https://www.youtube.com/watch?v=jX26s1SrdWM
