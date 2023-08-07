@@ -117,8 +117,11 @@ def verify_message(date,text):
                 for x in mac_list:
                     boot_all(x,i)
 def boot_all(mac,name):
-    print("Waking up "+mac)
-    send_magic_packet(mac)
+    try:
+        print("Waking up "+mac)
+        send_magic_packet(mac)
+    except:
+        z=9
     if os_wol_plugin == True:
         broad = subprocess.check_output("/sbin/ifconfig -a | awk '/(broadcast)/ {print $6}'", shell=True)  #get the broadcast address
         broadcast_list = re.findall(ipv4_extract_pattern, str(broad)) # returns broadcast adress in a list
